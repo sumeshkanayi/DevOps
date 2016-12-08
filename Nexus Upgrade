@@ -1,0 +1,7 @@
+
+https://support.sonatype.com/hc/en-us/articles/213464338-Nexus-Repository-Manager-Upgrade-and-Compatibility-Notes
+First Download 2.7.2 
+Copy Sonatype-work folder to the 2.72 instance
+Upgrade to sonatype 2.72 to 2.14
+https://groups.google.com/a/glists.sonatype.com/forum/#!topic/nexus-users/WS05YRX_dCg
+Upgrade to nexus 3.1
